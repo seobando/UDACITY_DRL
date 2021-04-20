@@ -11,5 +11,5 @@ The stack of concepts/techniques learned in the nanodegree program are:
 In total there are 3 projects:
 
 1. [Navigation](https://github.com/seobando/UDACITY_DRL/tree/master/1_Navigation)  
-2. [Continuos control](PENDING)
-3. [Collaboration and Competition](PENDING)
+2. [Continuos control](https://github.com/seobando/UDACITY_DRL/tree/master/2_Continous_Control)
+3. [Collaboration and Competition](https://github.com/seobando/UDACITY_DRL/tree/master/3_Collaboration_Competition)
