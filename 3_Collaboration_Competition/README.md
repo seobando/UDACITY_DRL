@@ -11,7 +11,7 @@ The task is episodic, and in order to solve the environment, your agents must ge
 
 The environment is considered solved, when the average (over 100 episodes) of those scores is at least +0.5.
 
-![Tennis](https://github.com/Unity-Technologies/ml-agents/blob/master/docs/images/tennis.png)
+![Tennis](https://user-images.githubusercontent.com/10624937/42135623-e770e354-7d12-11e8-998d-29fc74429ca2.gif)
 
 # Getting started
 1. Activate the environment:
