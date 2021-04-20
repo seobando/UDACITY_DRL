@@ -35,6 +35,8 @@ The environment is considered solved, when the average (over 100 episodes) of th
     (For AWS) If you'd like to train the agent on AWS (and have not [enabled a virtual screen](https://github.com/Unity-Technologies/ml-agents/blob/master/docs/Training-on-Amazon-Web-Service.md)), then please use [this link](https://github.com/Unity-Technologies/ml-agents/blob/master/docs/Training-on-Amazon-Web-Service.md) to obtain the environment.
 
 
+3. To install the dependencies go to: https://github.com/udacity/deep-reinforcement-learning#dependencies
+
 # Instructions
 
 Follow the instructions in Tennis.ipynb to get started with training your own agent!
